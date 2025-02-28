@@ -1,0 +1,5 @@
+VISUALIZAR CONFIG DO ZSH
+cat ~/.zshrc
+
+EDITAR 
+nano ~/.zshrc
